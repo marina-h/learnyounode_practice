@@ -1,2 +1,3 @@
 # learnyounode_practice
-Answers for learnyounode practice problems
+
+Answers for [learnyounode](https://github.com/workshopper/learnyounode) practice problems for learning Node.js.
